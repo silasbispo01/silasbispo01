@@ -4,7 +4,7 @@
 <p align="center"><img src="../main/dev.png" alt="devpic" width="600" /></p>
 
  <p style='text-align: justify; '> Estou cursando ADS (Análise e Desenvolvimento de Sistemas) na UNINTER,
- além da Universidade busco conhecimento por conta própria, e sou viciado em programação!
+ além da Universidade busco conhecimento por conta própria, e sou viciado em programação! 
    </p>
  
  <p><b>Atualmente estou aprendendo:</b><p/> 
@@ -13,5 +13,6 @@
  👉 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5pic" width="70"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3pic" width="60"/>
   
-  Dá uma olhada em alguns projetos que fiz 
+  Dá aí uma olhada em alguns dos meus projetos pessoais  👾 <br/>
+  👉 <a href="silasbispo.dev"> silasbispo.dev <a/> 
   
