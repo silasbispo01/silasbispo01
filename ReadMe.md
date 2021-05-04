@@ -1,4 +1,4 @@
-# Olá 👋, me chamo Silas
+## Olá 👋, me chamo Silas
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silas-bispo-dos-santos-1783a41a7/)
 
 <p align="center"><img src="../main/dev.png" alt="devpic" width="600" /></p>
