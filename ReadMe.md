@@ -11,7 +11,7 @@
  
  <hr>
  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=silasbispo01&show_icons=true&show=contribs,prs&cache_seconds=86400&theme=dracula)
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=silasbispo01&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=dracula)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasbispo01&layout=compact&theme=dracula&langs_count=10)](https://github.com/silasbispo01/github-readme-stats)
  
  
