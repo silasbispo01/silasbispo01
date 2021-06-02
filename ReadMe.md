@@ -5,7 +5,7 @@
 <hr>
 
  **I am studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
- besides the university I seek knowledge on my own, and I am loving to programming!**
+ besides the university I seek knowledge on my own, and I love to programming!**
  
  **My current goals at the moment are: to become a Back-End / Full-Stack developer**
  
