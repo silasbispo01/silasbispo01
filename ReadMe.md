@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Silas
+<a href='silasbispo01@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/><a/>
 
 <p align="center"><img src="../main/dev.png" alt="devpic" width="300" /></p>
 
