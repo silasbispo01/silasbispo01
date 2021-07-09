@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Silas
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](silasbispo01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbispo01@gmail.com?subject)
 <p align="center"><img src="../main/dev.png" alt="devpic" width="300" /></p>
 
 <hr>
