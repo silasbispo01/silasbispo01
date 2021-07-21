@@ -1,6 +1,9 @@
-## Hi there 👋, I'm Silas
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbispo01@gmail.com?subject)
+<img align="right" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbispo01@gmail.com?subject" />
 <a href="https://gifer.com/en/Dtf">
+<h3>Hi there 👋</h3> 
+
+<br>
+
   <img align="right" src="https://i.pinimg.com/originals/9f/9a/df/9f9adfa6f52bb13d1656fcb9f4c8ac1a.gif" width=25% height=20% />
 </a>
 
