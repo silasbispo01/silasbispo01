@@ -1,45 +1,49 @@
-# Hi there 👋, I'm Silas
+## Hi there 👋, I'm Silas
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silasbispo01@gmail.com?subject)
-<p align="center"><img src="../main/dev.png" alt="devpic" width="300" /></p>
+<a href="https://gifer.com/en/Dtf">
+  <img align="right" src="https://i.pinimg.com/originals/9f/9a/df/9f9adfa6f52bb13d1656fcb9f4c8ac1a.gif" width=25% height=20% />
+</a>
 
-<hr>
 
- **I am studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
- besides the university I seek knowledge on my own, and I love to programming!**
+
+
+My name is <strong>Silas</strong>, I'm 18 and was born and raised in Brazil!
+
+Studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
+ besides the university I seek knowledge on my own, and I love to programming!
  
- **Ignite student 🚀**
+ Ignite student 🚀
  
- **My current goals at the moment are: to become a Back-End / Full-Stack developer**
+ My current goals at the moment are: to become a Full-Stack developer
+ <br>
  
- <hr>
+ ---
+<br>
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+<img alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img alt="CSS" width="26px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
+<img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26px" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="26" />
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" />
+<img src="https://user-images.githubusercontent.com/79675227/126537083-75521c9f-a1af-4101-af81-1d3e0eb1da5e.png" alt="styled-components" width="26" />
+<img src="https://user-images.githubusercontent.com/79675227/126537297-546023f1-5391-4a2f-8ecf-cf3fc7a92c9b.png" alt="sass" width="26" />
+<img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma" width="28" />
+<img src="https://user-images.githubusercontent.com/79675227/126537991-520356e8-c7eb-4e8b-a9df-38c34cb37d1e.png" alt="git" width="26" />
  
- ![Github stats](https://github-readme-stats.vercel.app/api?username=silasbispo01&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silasbispo01&layout=compact&theme=dracula&langs_count=10)](https://github.com/silasbispo01/github-readme-stats)
+</p>
  
+<br>
+
+ <img align="left" alt="Silas's Github Stats" src="https://github-readme-stats.vercel.app/api?username=silasbispo01&show_icons=true&show=contribs,prs&cache_seconds=8640&theme=white&hide_border=true" />
  
- ## I know a bit of
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
-![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?&style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
-
-## I'm currently learning
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-## I want to learn
-
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![ReactNative](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+##
+<br>
+<img align="right" alt="Silas's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silasbispo01&layout=compact&theme=white&langs_count=10)](https://github.com/silasbispo01/github-readme-stats&hide_border=true" />
 
 
-Take a look at some of my personal projects  👾 
+
+
   
