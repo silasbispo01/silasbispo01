@@ -16,7 +16,7 @@ My name is <strong>Silas</strong>, I'm 18 and was born and raised in Brazil!
 Studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
  besides the university I seek knowledge on my own, and I love to programming!
  
- Ignite student 🚀
+ Ignite student | Front-end developer at Caffeine army 🚀
  
  My current goals at the moment are: to become a Full-Stack developer
  <br>
