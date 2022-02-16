@@ -18,7 +18,7 @@ Studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
  
  Ignite student | Front-end developer at Caffeine army 🚀
  
- My current goals at the moment are: to become a Full-Stack developer
+ Full-Stack developer
  <br>
  
  ---
