@@ -36,6 +36,11 @@ Studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
 <img src="https://user-images.githubusercontent.com/79675227/126537297-546023f1-5391-4a2f-8ecf-cf3fc7a92c9b.png" alt="sass" width="26" />
 <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="Figma" width="28" />
 <img src="https://user-images.githubusercontent.com/79675227/126537991-520356e8-c7eb-4e8b-a9df-38c34cb37d1e.png" alt="git" width="26" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="26" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26" />
+ 
+ 
+ 
  
 </p>
  
