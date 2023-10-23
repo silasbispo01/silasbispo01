@@ -11,7 +11,7 @@ My name is <strong>Silas</strong>, I'm 20 and was born and raised in Brazil!
 Studying ADS (Análise e Desenvolvimento de Sistemas) at UNINTER,
  besides the university I seek knowledge on my own, and I love to programming!
  
-Full-Stack developer at Caffeine army
+Full-Stack developer at <strike>Caffeine army</strike>
  
  <br>
  
